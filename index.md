@@ -19,3 +19,16 @@ var myVar = "Hello, world!";
 ```
 
 code blocks | java script
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
+Example task list
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+Example task list 2
+
